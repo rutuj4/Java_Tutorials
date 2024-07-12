@@ -106,7 +106,7 @@ public class D19_PracticeSet4 {
 //		}
 		
 //Problem 6
-//Write a pgm to find out the type of websute from the url		
+//Write a pgm to find out the type of website from the url		
 // .com -> Commercial Webiste
 // .org -> Organization Webiste	
 // .in -> Indian Webiste
